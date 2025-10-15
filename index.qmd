@@ -18,7 +18,7 @@ Data files:
 
 -   And another line then save and commit
 
--   Adding another line to push, editing this for collaboration on github
+-   Adding another line to push, editing this for collaboration on github, editing 2nd time
 
 -   To push save this script window, go to diff, select index, staged, commit
 
